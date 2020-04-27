@@ -2,12 +2,12 @@
 GrapyLite (Graph-Python-Lite) is developed to work as a lite knowledge graph engine in python.
 
 ### Plan:
-[] Initiating
-[] sqlite database storage with memory caching
-[] Basic node and edge query
-[] support (m)-[:.5]->(n) cypher query
-[] step 1 benchmark
-[] 
+- [ ] Initiating
+- [ ] sqlite database storage with memory caching
+- [ ] Basic node and edge query
+- [ ] support (m)-[:.5]->(n) cypher query
+- [ ] step 1 benchmark
+- [ ] ...
 
 ### Reference
 ```
