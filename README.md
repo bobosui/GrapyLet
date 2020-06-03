@@ -1,5 +1,5 @@
 # GrapyLet
-GrapyLite (Graph-Python-Lite) is developed to work as a lite knowledge graph engine in python.
+GrapyLet(Graph-Python-Lite) is developed to work as a light knowledge graph engine in python.
 
 ### Plan:
 - [ ] Initiating
